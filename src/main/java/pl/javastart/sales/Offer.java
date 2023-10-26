@@ -29,6 +29,4 @@ public class Offer {
     public double getPercentage() {
         return percentage;
     }
-
-
 }
